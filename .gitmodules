@@ -1,0 +1,3 @@
+[submodule "projects/01-fin-api"]
+	path = projects/01-fin-api
+	url = git@github.com:luizwhite/ignite-simple-fin-api.git
