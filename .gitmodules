@@ -1,3 +1,6 @@
 [submodule "projects/01-fin-api"]
 	path = projects/01-fin-api
 	url = git@github.com:luizwhite/ignite-simple-fin-api.git
+[submodule "challenges/ch01-concepts"]
+	path = challenges/ch01-concepts
+	url = git@github.com:luizwhite/ignite-nodejs-concepts-ch01.git
