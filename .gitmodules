@@ -4,3 +4,6 @@
 [submodule "challenges/ch01-concepts"]
 	path = challenges/ch01-concepts
 	url = git@github.com:luizwhite/ignite-nodejs-concepts-ch01.git
+[submodule "challenges/ch02-middlewares"]
+	path = challenges/ch02-middlewares
+	url = git@github.com:luizwhite/ignite-nodejs-middlewares-ch02.git
