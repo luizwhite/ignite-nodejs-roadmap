@@ -7,3 +7,6 @@
 [submodule "challenges/ch02-middlewares"]
 	path = challenges/ch02-middlewares
 	url = git@github.com:luizwhite/ignite-nodejs-middlewares-ch02.git
+[submodule "challenges/ch03-codefixing-crud"]
+	path = challenges/ch03-codefixing-crud
+	url = git@github.com:luizwhite/ignite-nodejs-codefixing-ch03.git
