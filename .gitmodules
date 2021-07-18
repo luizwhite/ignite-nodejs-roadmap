@@ -10,3 +10,6 @@
 [submodule "challenges/ch03-codefixing-crud"]
 	path = challenges/ch03-codefixing-crud
 	url = git@github.com:luizwhite/ignite-nodejs-codefixing-ch03.git
+[submodule "challenges/ch04-solid-principles"]
+	path = challenges/ch04-solid-principles
+	url = git@github.com:luizwhite/ignite-nodejs-solid-principles-ch04.git
