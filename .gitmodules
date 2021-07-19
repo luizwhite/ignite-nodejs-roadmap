@@ -16,3 +16,6 @@
 [submodule "projects/02-rentalx"]
 	path = projects/02-rentalx
 	url = https://github.com/luizwhite/ignite-rentalx
+[submodule "challenges/ch05-swagger-docs"]
+	path = challenges/ch05-swagger-docs
+	url = git@github.com:luizwhite/ignite-nodejs-swagger-ch05.git
