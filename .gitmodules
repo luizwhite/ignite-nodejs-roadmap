@@ -13,9 +13,9 @@
 [submodule "challenges/ch04-solid-principles"]
 	path = challenges/ch04-solid-principles
 	url = git@github.com:luizwhite/ignite-nodejs-solid-principles-ch04.git
-[submodule "projects/02-rentalx"]
-	path = projects/02-rentalx
-	url = https://github.com/luizwhite/ignite-rentalx
+[submodule "projects/02-rentx"]
+	path = projects/02-rentx
+	url = git@github.com:luizwhite/ignite-rentx.git
 [submodule "challenges/ch05-swagger-docs"]
 	path = challenges/ch05-swagger-docs
 	url = git@github.com:luizwhite/ignite-nodejs-swagger-ch05.git
