@@ -19,3 +19,6 @@
 [submodule "challenges/ch05-swagger-docs"]
 	path = challenges/ch05-swagger-docs
 	url = git@github.com:luizwhite/ignite-nodejs-swagger-ch05.git
+[submodule "challenges/ch06-db-queries"]
+	path = challenges/ch06-db-queries
+	url = git@github.com:luizwhite/ignite-nodejs-db-queries-ch06.git
