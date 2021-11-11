@@ -22,6 +22,6 @@
 [submodule "challenges/ch06-db-queries"]
 	path = challenges/ch06-db-queries
 	url = git@github.com:luizwhite/ignite-nodejs-db-queries-ch06.git
-[submodule "challenges/ch07-unit-testing"]
-	path = challenges/ch07-unit-testing
-	url = git@github.com:luizwhite/ignite-nodejs-unit-testing-ch07.git
+[submodule "challenges/ch07-08-unit-n-integration-testing"]
+	path = challenges/ch07-08-unit-n-integration-testing
+	url = git@github.com:luizwhite/ignite-nodejs-testings-ch07-08.git
