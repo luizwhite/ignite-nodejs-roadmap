@@ -25,3 +25,6 @@
 [submodule "challenges/ch07-08-unit-n-integration-testing"]
 	path = challenges/ch07-08-unit-n-integration-testing
 	url = git@github.com:luizwhite/ignite-nodejs-testings-ch07-08.git
+[submodule "challenges/ch09-finapi-transfers-feature"]
+	path = challenges/ch09-finapi-transfers-feature
+	url = git@github.com:luizwhite/ignite-nodejs-finapi-transfers-ch09.git
